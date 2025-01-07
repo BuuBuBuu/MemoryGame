@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <!-- Position number -->
+    <TextView
+        android:id="@+id/positionNumber"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        tools:text="1" />
+
+    <!-- Username -->
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="16sp"
+        tools:text="Username" />
+
+    <!-- Completion Time -->
+    <TextView
+        android:id="@+id/completionTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:fontFamily="monospace"
+        android:minWidth="120dp"
+        android:gravity="end"
+        tools:text="01:23:00" />
+
+</LinearLayout>

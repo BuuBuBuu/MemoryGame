@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_selected_image_overlay.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/selected_image_overlay.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memorygamedec22.app-debug-38:/layout_activity_leaderboard.xml.flat",
+        "source": "com.example.memorygamedec22.app-main-40:/layout/activity_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_placeholder.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/placeholder.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_test_image_1.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/test_image_1.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_item_card.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/item_card.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_leaderboard_header_row.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/leaderboard_header_row.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_collections_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_collections_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_test_image_2.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/test_image_2.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_image_placeholder.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_image_placeholder.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_item_leaderboard.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/item_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_checkmark.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_checkmark.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/xml_network_security_config.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_link_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_link_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_activity_play.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/activity_play.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_checkmark_background.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/checkmark_background.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_item_image_grid.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/item_image_grid.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_activity_fetch.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/activity_fetch.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_image_error.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_image_error.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/xml_backup_rules.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_card_back.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_card_back.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/layout_activity_leaderboard.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/layout/activity_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_test_image_3.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/test_image_3.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-debug-38:/drawable_error_placeholder.xml.flat",
+        "source": "/Users/benben/.gradle/daemon/8.9/com.example.memorygamedec22.app-main-40:/drawable/error_placeholder.xml"
+    }
+]
